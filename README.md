@@ -1,2 +1,2 @@
 # PDTW
-Time and Space efficient Python implementation of PDTW 
+This repository contians a time and space efficient Python implementation of [PDTW](https://github.com/SPEECHCOG/PDTW). Efficiency is increased by using modularity, fewer loops and calculations where unnecessary extra calculations were being done and a faster implementation for calculating cosine distance using vector normalization, amongst other improvements.
